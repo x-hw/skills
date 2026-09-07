@@ -1,0 +1,7 @@
+interface:
+  display_name: "Setup Repository"
+  short_description: "Initialize or complete a Python repository"
+  default_prompt: "Set up this Python repository"
+
+policy:
+  allow_implicit_invocation: false
